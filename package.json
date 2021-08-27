@@ -1,0 +1,19 @@
+{
+  "name": "oc-openclassrooms-mentorat",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nemephir/oc-openclassrooms-mentorat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nemephir/oc-openclassrooms-mentorat/issues"
+  },
+  "homepage": "https://github.com/Nemephir/oc-openclassrooms-mentorat#readme",
+  "dependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
